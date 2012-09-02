@@ -2,11 +2,10 @@
 *.slo
 *.lo
 *.o
-# Compilied Result files
-*.out
 
 # Compiled Dynamic libraries
 *.so
+*.dylib
 
 # Compiled Static libraries
 *.lai
