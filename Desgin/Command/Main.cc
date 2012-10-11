@@ -6,4 +6,6 @@ int main() {
 	LightOnCommand *light_on_command = new LightOnCommand;
 	light_on_command->SetLight(light);
 	light_on_command->Excute();
+	delete light_on_command;
+	delete light;
 }
