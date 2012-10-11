@@ -1,0 +1,21 @@
+program TwosComplement;
+#include("stdlib.hhf")
+var
+    pos_value : int8;
+    neg_value : int8;
+begin TwosComplement;
+    stdout.put("input a value:");
+    stdin.get(pos_value);
+
+    mov(pos_value, al);
+    not(al);
+    mov(al , pos_value);
+    stdout.newln();
+    stdout.put("after not the value is:", pos_value, nl);
+
+    inc(al);
+    //inc(pos_value);
+    neg(al);
+    mov(al, pos_value);
+    stdout.put("after the neg value is:", pos_value,nl);
+end TwosComplement;

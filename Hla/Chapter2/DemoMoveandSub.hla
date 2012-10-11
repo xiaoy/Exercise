@@ -1,0 +1,34 @@
+program DemoMoveandSub;
+#include("stdlib.hhf");
+static
+    i8 : int8 := -8;
+    i16 :int16 := -16;
+    i32 : int32 := -32;
+begin DemoMoveandSub;
+    stdout.put(
+    nl,
+    "init i8:", i8,
+    ", i16:", i16,
+    ", ti32:", i32,
+    nl
+    );
+    mov(i8, al);
+    sub(al, i8);
+
+    mov(i16, ax);
+    sub(ax, i16);
+
+    mov(i32, eax);
+    sub(eax, i32);
+
+    stdout.put(
+    nl,
+    "end i8:", i8,
+    ", i16:", i16,
+    ", i32:", i32,
+    nl
+    );
+
+    add(5555, i32);
+    stdout.put("after sub the i32 is:", i32, nl);
+end DemoMoveandSub;

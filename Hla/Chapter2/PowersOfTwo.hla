@@ -1,0 +1,17 @@
+program PowersOfTwo;
+#include("stdlib.hhf")
+
+var
+    pwr2 : int32;
+    loop_cntr : int32;
+
+begin PowersOfTwo;
+    mov(1, pwr2);
+    while(loop_cntr < 32) do
+        stdout.put("the ",loop_cntr:2 ," power of 2 is:", pwr2:10, nl);
+        mov(pwr2, eax);
+        add(pwr2, eax);
+        mov(eax, pwr2);
+        inc(loop_cntr);
+    endwhile;
+end PowersOfTwo;

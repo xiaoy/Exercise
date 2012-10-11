@@ -1,0 +1,34 @@
+program CheckerBoard;
+#include("stdlib.hhf")
+
+var 
+    x_coord : int8;
+    y_coord : int8;
+    col_ctr : int8;
+begin CheckerBoard;
+    while(y_coord < 4) do
+        mov(4, x_coord);
+        while(x_coord >0) do
+            mov(4, col_ctr);
+            repeat
+                stdout.put("****    ");
+                sub(1, col_ctr);
+            until(col_ctr == 0);
+            stdout.newln();
+            sub(1, x_coord);
+        endwhile;
+
+        mov(4, x_coord);
+        while(x_coord >0) do
+            mov(4, col_ctr);
+            repeat
+                stdout.put("    ****");
+                sub(1, col_ctr);
+            until(col_ctr == 0);
+            stdout.newln();
+            dec(x_coord);
+        endwhile;
+        add(1, y_coord);
+    endwhile;
+    stdout.newln();
+end CheckerBoard;
