@@ -1,0 +1,17 @@
+[2013-01-14 12:07:34][LOG,7108,6790]ResQurType:-1
+[2013-01-14 12:07:34][LOG,9628,6993]GetElementToChecked Num:1
+[2013-01-14 12:07:35][LOG,9628,7305]Update Ret RBQueryUpdatesResult[1], RBUpdateInfo[1]
+[2013-01-14 12:07:35][LOG,9628,7305]RBQueryUpdatesResult dwType[2002], dwResCode[1], dwRetryTime[0]
+[2013-01-14 12:07:35][LOG,9628,7305]RBUpdateInfo dwType[2002], dwVersion[83]
+[2013-01-14 12:07:39][LOG,7248,1970]HTTP down success! url[http://ptdl.5211game.com/11resource/11data.xml]
+[2013-01-14 12:07:39][LOG,9628,2032]Local Version is the Newest. File[GameIcon.xml], Local Version[30], Server Version[28]
+[2013-01-14 12:07:39][LOG,9628,2048]Local Version is the Newest. File[GameResource.xml], Local Version[3], Server Version[2]
+[2013-01-14 12:07:39][LOG,9628,2063]Local Version is the Newest. File[BottomPannel.xml], Local Version[10], Server Version[9]
+[2013-01-14 12:07:39][LOG,9628,2079]Add unzip no change task[D:\Program Files (x86)\11game\Data\ThrdGameList.zip]
+[2013-01-14 12:07:39][LOG,9628,2079]Add unzip no change task[D:\Program Files (x86)\11game\Data\Common.zip]
+[2013-01-14 12:07:39][LOG,9628,2079]Add unzip task[C:\Users\lfwu\AppData\Local\Temp\{A9DC27FC-BEA6-4624-B70A-D1A18CAA1587}\Data\11GameData.zip]
+[2013-01-14 12:07:39][LOG,9628,2079]Add unzip no change task[D:\Program Files (x86)\11game\Data\GameExtension.zip]
+[2013-01-14 12:07:39][LOG,9628,2094]Local Version is the Newest. File[UserAvatar.xml], Local Version[6], Server Version[4]
+[2013-01-14 12:07:39][LOG,9628,2094]Local Version is the Newest. File[11Item.xml], Local Version[6], Server Version[3]
+[2013-01-14 12:07:40][LOG,1800,2188]HTTP down success! url[http://ptdl.5211game.com/11resource/zip/11GameData.zip]
+[2013-01-14 12:07:40][LOG,7108,2204]OnExitProcess

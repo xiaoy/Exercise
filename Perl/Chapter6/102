@@ -1,0 +1,6 @@
+[2013-01-22 13:13:25][LOG,19140,2135]ResQurType:-1
+[2013-01-22 13:13:25][LOG,10780,2135]GetElementToChecked Num:1
+[2013-01-22 13:13:25][LOG,10780,2229]Update Ret RBQueryUpdatesResult[1], RBUpdateInfo[0]
+[2013-01-22 13:13:25][LOG,10780,2229]RBQueryUpdatesResult dwType[2002], dwResCode[3], dwRetryTime[5]
+[2013-01-22 13:13:25][LOG,10780,2229]DownloadUpdate return UpdateInfo size is 0
+[2013-01-22 13:13:25][LOG,19140,2229]OnExitProcess
