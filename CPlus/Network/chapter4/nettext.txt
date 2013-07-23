@@ -1,0 +1,601 @@
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp       28      0 lfwu-Pc.local:54329     productsearch.ubu:https CLOSE_WAIT 
+tcp        1      0 lfwu-Pc.local:53026     accounts.youtube.c:http CLOSE_WAIT 
+tcp        1      0 lfwu-Pc.local:52138     199.27.77.185:http      CLOSE_WAIT 
+tcp        1      0 lfwu-Pc.local:60122     mistletoe.canonica:http CLOSE_WAIT 
+tcp        1      0 lfwu-Pc.local:53027     accounts.youtube.c:http CLOSE_WAIT 
+tcp        1      0 lfwu-Pc.local:34261     199.27.77.184:http      CLOSE_WAIT 
+tcp        0      1 lfwu-Pc.local:42919     8.7.198.45:http         SYN_SENT   
+tcp        0      0 lfwu-Pc.local:40687     accounts.youtube.c:http ESTABLISHED
+tcp        0      0 lfwu-Pc.local:35221     113.108.10.207:https    ESTABLISHED
+tcp        0      0 192.168.1.127:39977     192.168.1.1:netbios-ssn ESTABLISHED
+tcp        1      0 lfwu-Pc.local:54236     roman.vodo.net:http     CLOSE_WAIT 
+tcp        0      0 lfwu-Pc.local:35909     74.125.192.:xmpp-client ESTABLISHED
+tcp        1      0 lfwu-Pc.local:45537     www.evernote.com:https  CLOSE_WAIT 
+tcp        1      0 lfwu-Pc.local:52137     199.27.77.185:http      CLOSE_WAIT 
+tcp        0      1 lfwu-Pc.local:42920     8.7.198.45:http         SYN_SENT   
+tcp        0      0 lfwu-Pc.local:44513     www.evernote.com:https  ESTABLISHED
+tcp        0      0 lfwu-Pc.local:42847     0.docs.google.com:https ESTABLISHED
+tcp        0      1 lfwu-Pc.local:46379     37.61.54.158:http       SYN_SENT   
+tcp        0      0 lfwu-Pc.local:42847     0.docs.google.com:https ESTABLISHED
+tcp        0      1 lfwu-Pc.local:46379     37.61.54.158:http       SYN_SENT   
+tcp        0      1 lfwu-Pc.local:46382     37.61.54.158:http       SYN_SENT   
+tcp        0      0 lfwu-Pc.local:42847     0.docs.google.com:https ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  2      [ ]         DGRAM                    1158970  /var/run/wpa_supplicant/wlan0
+unix  21     [ ]         DGRAM                    11374    /dev/log
+unix  3      [ ]         STREAM     CONNECTED     159046   
+unix  3      [ ]         STREAM     CONNECTED     16778    
+unix  3      [ ]         STREAM     CONNECTED     18780    
+unix  3      [ ]         STREAM     CONNECTED     17090    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     13281    
+unix  3      [ ]         STREAM     CONNECTED     962845   @/dbus-vfs-daemon/socket-nwJhx63u
+unix  3      [ ]         STREAM     CONNECTED     378529   
+unix  3      [ ]         STREAM     CONNECTED     12908    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14263    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     375393   
+unix  3      [ ]         STREAM     CONNECTED     17486    @/tmp/.ICE-unix/1933
+unix  3      [ ]         STREAM     CONNECTED     17467    
+unix  3      [ ]         STREAM     CONNECTED     14624    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     964570   @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     783565   @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     16083    
+unix  3      [ ]         STREAM     CONNECTED     14649    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     963584   @/dbus-vfs-daemon/socket-uBmXJS3H
+unix  2      [ ]         STREAM     CONNECTED     932125   
+unix  3      [ ]         SEQPACKET  CONNECTED     21803    
+unix  3      [ ]         STREAM     CONNECTED     14842    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     18476    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16071    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     15710    @/dbus-vfs-daemon/socket-jMF6CZhQ
+unix  3      [ ]         STREAM     CONNECTED     962790   
+unix  3      [ ]         STREAM     CONNECTED     13029    @/dbus-vfs-daemon/socket-5j8a2wfz
+unix  3      [ ]         STREAM     CONNECTED     1165692  
+unix  3      [ ]         STREAM     CONNECTED     378525   @/dbus-vfs-daemon/socket-yVvBber5
+unix  3      [ ]         STREAM     CONNECTED     13304    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16486    
+unix  3      [ ]         STREAM     CONNECTED     14880    
+unix  3      [ ]         STREAM     CONNECTED     14852    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     17048    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     13302    
+unix  3      [ ]         STREAM     CONNECTED     12092    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     32808    
+unix  3      [ ]         STREAM     CONNECTED     13031    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14753    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     12131    
+unix  3      [ ]         STREAM     CONNECTED     962921   /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     15708    
+unix  3      [ ]         SEQPACKET  CONNECTED     12288    
+unix  3      [ ]         STREAM     CONNECTED     14147    
+unix  3      [ ]         STREAM     CONNECTED     1416     @/com/ubuntu/upstart
+unix  3      [ ]         STREAM     CONNECTED     12839    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     14840    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     18587    
+unix  3      [ ]         STREAM     CONNECTED     18514    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14898    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     12772    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     14081    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     375394   /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     19484    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     17012    
+unix  3      [ ]         STREAM     CONNECTED     12213    
+unix  3      [ ]         STREAM     CONNECTED     10540    
+unix  3      [ ]         STREAM     CONNECTED     14590    
+unix  3      [ ]         STREAM     CONNECTED     16972    
+unix  3      [ ]         STREAM     CONNECTED     16418    /run/user/lfwu/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     1174853  
+unix  3      [ ]         STREAM     CONNECTED     14859    
+unix  3      [ ]         STREAM     CONNECTED     8102     /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17446    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16086    
+unix  3      [ ]         STREAM     CONNECTED     15308    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16394    
+unix  2      [ ]         DGRAM                    10149    
+unix  3      [ ]         STREAM     CONNECTED     16419    
+unix  3      [ ]         STREAM     CONNECTED     11766    
+unix  3      [ ]         STREAM     CONNECTED     11448    
+unix  3      [ ]         STREAM     CONNECTED     378967   
+unix  3      [ ]         STREAM     CONNECTED     376806   
+unix  3      [ ]         STREAM     CONNECTED     13020    
+unix  3      [ ]         STREAM     CONNECTED     14855    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     962883   @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     25365    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     16993    
+unix  2      [ ]         DGRAM                    17487    
+unix  3      [ ]         STREAM     CONNECTED     961255   @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     931801   @/dbus-vfs-daemon/socket-FQXLfGWv
+unix  3      [ ]         STREAM     CONNECTED     17573    
+unix  3      [ ]         STREAM     CONNECTED     15326    
+unix  3      [ ]         STREAM     CONNECTED     15413    
+unix  3      [ ]         STREAM     CONNECTED     16393    
+unix  3      [ ]         STREAM     CONNECTED     33875    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     13299    
+unix  3      [ ]         STREAM     CONNECTED     14236    
+unix  3      [ ]         STREAM     CONNECTED     7866     
+unix  2      [ ]         DGRAM                    1159099  
+unix  3      [ ]         STREAM     CONNECTED     12133    
+unix  3      [ ]         STREAM     CONNECTED     12933    
+unix  2      [ ]         DGRAM                    12877    
+unix  3      [ ]         STREAM     CONNECTED     8111     /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     10237    
+unix  3      [ ]         STREAM     CONNECTED     378521   @/dbus-vfs-daemon/socket-YYFyJII0
+unix  3      [ ]         STREAM     CONNECTED     16518    
+unix  3      [ ]         STREAM     CONNECTED     12086    
+unix  3      [ ]         STREAM     CONNECTED     16107    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16079    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     13030    
+unix  3      [ ]         STREAM     CONNECTED     12802    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     961090   @/dbus-vfs-daemon/socket-FEMX4Mzq
+unix  3      [ ]         STREAM     CONNECTED     17543    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     17466    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     782938   
+unix  3      [ ]         STREAM     CONNECTED     18598    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     14897    
+unix  3      [ ]         STREAM     CONNECTED     15681    
+unix  3      [ ]         STREAM     CONNECTED     16994    
+unix  3      [ ]         SEQPACKET  CONNECTED     15364    
+unix  3      [ ]         STREAM     CONNECTED     14300    
+unix  2      [ ]         DGRAM                    14465    
+unix  3      [ ]         STREAM     CONNECTED     1165693  @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     12376    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     1176370  
+unix  3      [ ]         STREAM     CONNECTED     16979    
+unix  3      [ ]         STREAM     CONNECTED     965007   
+unix  3      [ ]         STREAM     CONNECTED     377783   @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16762    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     15766    
+unix  3      [ ]         STREAM     CONNECTED     15684    
+unix  3      [ ]         STREAM     CONNECTED     12798    
+unix  3      [ ]         STREAM     CONNECTED     14648    @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM                    959316   
+unix  3      [ ]         STREAM     CONNECTED     182743   
+unix  3      [ ]         STREAM     CONNECTED     16775    /run/user/lfwu/keyring-poumQk/pkcs11
+unix  3      [ ]         STREAM     CONNECTED     16540    
+unix  3      [ ]         STREAM     CONNECTED     781955   
+unix  3      [ ]         STREAM     CONNECTED     17635    
+unix  3      [ ]         STREAM     CONNECTED     8046     /var/run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    10514    
+unix  3      [ ]         STREAM     CONNECTED     18548    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     15303    
+unix  3      [ ]         STREAM     CONNECTED     14896    
+unix  3      [ ]         STREAM     CONNECTED     12667    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     13920    
+unix  3      [ ]         STREAM     CONNECTED     28705    
+unix  3      [ ]         STREAM     CONNECTED     14761    
+unix  3      [ ]         STREAM     CONNECTED     17057    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     12129    
+unix  3      [ ]         STREAM     CONNECTED     962920   
+unix  3      [ ]         STREAM     CONNECTED     14599    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16075    
+unix  3      [ ]         STREAM     CONNECTED     963775   
+unix  3      [ ]         STREAM     CONNECTED     12780    
+unix  3      [ ]         STREAM     CONNECTED     1164980  
+unix  3      [ ]         STREAM     CONNECTED     14238    
+unix  3      [ ]         STREAM     CONNECTED     12926    
+unix  3      [ ]         STREAM     CONNECTED     15192    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     963056   @/dbus-vfs-daemon/socket-aFToeZoP
+unix  3      [ ]         STREAM     CONNECTED     15702    
+unix  3      [ ]         STREAM     CONNECTED     963273   
+unix  3      [ ]         STREAM     CONNECTED     17415    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     14894    
+unix  3      [ ]         STREAM     CONNECTED     15762    @/tmp/dbus-zg536ABOW6
+unix  2      [ ]         DGRAM                    12451    
+unix  3      [ ]         STREAM     CONNECTED     1170128  
+unix  3      [ ]         STREAM     CONNECTED     16982    
+unix  3      [ ]         STREAM     CONNECTED     15301    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16764    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     375582   /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7803     
+unix  3      [ ]         STREAM     CONNECTED     15703    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14787    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     963647   @/dbus-vfs-daemon/socket-4zAwxrHY
+unix  3      [ ]         STREAM     CONNECTED     19480    
+unix  3      [ ]         STREAM     CONNECTED     16970    
+unix  3      [ ]         STREAM     CONNECTED     10522    
+unix  3      [ ]         STREAM     CONNECTED     13280    
+unix  2      [ ]         DGRAM                    12274    
+unix  3      [ ]         STREAM     CONNECTED     12833    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     15679    
+unix  3      [ ]         STREAM     CONNECTED     12088    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     19471    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14298    
+unix  3      [ ]         STREAM     CONNECTED     12771    
+unix  3      [ ]         STREAM     CONNECTED     1109966  
+unix  3      [ ]         STREAM     CONNECTED     14264    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     14404    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     962503   @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     15300    
+unix  3      [ ]         STREAM     CONNECTED     14268    
+unix  3      [ ]         STREAM     CONNECTED     12738    
+unix  3      [ ]         STREAM     CONNECTED     17520    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     18479    
+unix  3      [ ]         STREAM     CONNECTED     16423    
+unix  3      [ ]         STREAM     CONNECTED     378403   
+unix  3      [ ]         STREAM     CONNECTED     17548    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16949    
+unix  3      [ ]         STREAM     CONNECTED     13289    
+unix  3      [ ]         STREAM     CONNECTED     14854    
+unix  3      [ ]         STREAM     CONNECTED     15412    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     14265    
+unix  3      [ ]         STREAM     CONNECTED     12658    
+unix  3      [ ]         STREAM     CONNECTED     783564   
+unix  3      [ ]         STREAM     CONNECTED     18781    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16513    @/dbus-vfs-daemon/socket-xDF4shQI
+unix  3      [ ]         SEQPACKET  CONNECTED     15361    
+unix  3      [ ]         STREAM     CONNECTED     13896    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     11427    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     377780   @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16004    
+unix  3      [ ]         STREAM     CONNECTED     12130    
+unix  3      [ ]         STREAM     CONNECTED     17049    
+unix  3      [ ]         STREAM     CONNECTED     963766   
+unix  3      [ ]         STREAM     CONNECTED     13294    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     15677    
+unix  3      [ ]         STREAM     CONNECTED     12452    
+unix  3      [ ]         STREAM     CONNECTED     963265   @/dbus-vfs-daemon/socket-rFYCcHoh
+unix  3      [ ]         STREAM     CONNECTED     13777    
+unix  3      [ ]         STREAM     CONNECTED     962791   
+unix  3      [ ]         STREAM     CONNECTED     17483    
+unix  3      [ ]         STREAM     CONNECTED     15285    
+unix  3      [ ]         STREAM     CONNECTED     12896    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     14644    @/tmp/dbus-zg536ABOW6
+unix  2      [ ]         DGRAM                    10627    
+unix  3      [ ]         STREAM     CONNECTED     16971    
+unix  3      [ ]         STREAM     CONNECTED     13293    
+unix  3      [ ]         STREAM     CONNECTED     12664    
+unix  3      [ ]         STREAM     CONNECTED     7607     @/com/ubuntu/upstart
+unix  3      [ ]         STREAM     CONNECTED     1175739  
+unix  3      [ ]         STREAM     CONNECTED     378524   
+unix  3      [ ]         STREAM     CONNECTED     18596    /run/user/lfwu/keyring-poumQk/pkcs11
+unix  3      [ ]         STREAM     CONNECTED     781956   
+unix  2      [ ]         DGRAM                    15365    
+unix  3      [ ]         STREAM     CONNECTED     18574    
+unix  3      [ ]         STREAM     CONNECTED     16760    
+unix  3      [ ]         STREAM     CONNECTED     13046    
+unix  3      [ ]         STREAM     CONNECTED     14274    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     14758    
+unix  3      [ ]         STREAM     CONNECTED     12212    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     1170121  @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     14533    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     11426    
+unix  3      [ ]         STREAM     CONNECTED     963581   @/dbus-vfs-daemon/socket-bC21xXoL
+unix  3      [ ]         STREAM     CONNECTED     933916   
+unix  3      [ ]         STREAM     CONNECTED     18597    
+unix  3      [ ]         STREAM     CONNECTED     16947    
+unix  3      [ ]         STREAM     CONNECTED     16784    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     12661    
+unix  3      [ ]         STREAM     CONNECTED     14262    
+unix  3      [ ]         STREAM     CONNECTED     16782    
+unix  3      [ ]         STREAM     CONNECTED     15220    /run/user/lfwu/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     17447    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     15761    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     15189    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14154    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     931802   @/dbus-vfs-daemon/socket-ZwAmnzks
+unix  3      [ ]         STREAM     CONNECTED     25367    
+unix  3      [ ]         STREAM     CONNECTED     18608    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14672    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16413    
+unix  3      [ ]         STREAM     CONNECTED     14654    
+unix  3      [ ]         STREAM     CONNECTED     1170511  @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14206    
+unix  3      [ ]         STREAM     CONNECTED     18576    
+unix  3      [ ]         STREAM     CONNECTED     14201    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     20224    
+unix  3      [ ]         STREAM     CONNECTED     20846    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     17067    
+unix  3      [ ]         STREAM     CONNECTED     15188    
+unix  3      [ ]         STREAM     CONNECTED     1173895  
+unix  3      [ ]         STREAM     CONNECTED     1109967  
+unix  3      [ ]         STREAM     CONNECTED     781950   @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     378526   @/dbus-vfs-daemon/socket-AfpVLLWZ
+unix  3      [ ]         STREAM     CONNECTED     7830     /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     12880    @/tmp/dbus-zg536ABOW6
+unix  2      [ ]         DGRAM                    13854    
+unix  2      [ ]         STREAM     CONNECTED     10554    
+unix  3      [ ]         STREAM     CONNECTED     1158903  /var/run/acpid.socket
+unix  3      [ ]         STREAM     CONNECTED     19534    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         SEQPACKET  CONNECTED     14891    
+unix  3      [ ]         STREAM     CONNECTED     14763    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     8622     
+unix  3      [ ]         STREAM     CONNECTED     17461    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16761    
+unix  3      [ ]         STREAM     CONNECTED     782936   
+unix  3      [ ]         STREAM     CONNECTED     19852    
+unix  3      [ ]         STREAM     CONNECTED     12929    
+unix  3      [ ]         STREAM     CONNECTED     16412    
+unix  3      [ ]         STREAM     CONNECTED     15299    
+unix  3      [ ]         STREAM     CONNECTED     16543    
+unix  3      [ ]         STREAM     CONNECTED     27877    
+unix  3      [ ]         STREAM     CONNECTED     15767    
+unix  3      [ ]         STREAM     CONNECTED     378400   @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     10516    
+unix  3      [ ]         STREAM     CONNECTED     963583   
+unix  3      [ ]         STREAM     CONNECTED     182744   
+unix  3      [ ]         STREAM     CONNECTED     10517    
+unix  3      [ ]         STREAM     CONNECTED     19472    /run/user/lfwu/keyring-poumQk/pkcs11
+unix  3      [ ]         STREAM     CONNECTED     18513    
+unix  3      [ ]         STREAM     CONNECTED     12975    
+unix  3      [ ]         STREAM     CONNECTED     26247    
+unix  3      [ ]         STREAM     CONNECTED     17622    
+unix  3      [ ]         STREAM     CONNECTED     16396    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     20774    
+unix  3      [ ]         STREAM     CONNECTED     12871    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     780752   
+unix  3      [ ]         STREAM     CONNECTED     159047   
+unix  3      [ ]         STREAM     CONNECTED     7861     /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     10655    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     15685    
+unix  3      [ ]         STREAM     CONNECTED     14827    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     12075    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     11605    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     14640    
+unix  3      [ ]         STREAM     CONNECTED     12094    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     1170127  
+unix  3      [ ]         STREAM     CONNECTED     376812   
+unix  3      [ ]         STREAM     CONNECTED     15217    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16487    
+unix  3      [ ]         STREAM     CONNECTED     1173919  @/dbus-vfs-daemon/socket-mGQqIi3h
+unix  3      [ ]         STREAM     CONNECTED     14635    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     375387   @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14266    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     12653    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     380627   
+unix  3      [ ]         STREAM     CONNECTED     17555    
+unix  3      [ ]         STREAM     CONNECTED     15302    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     16088    
+unix  3      [ ]         STREAM     CONNECTED     12925    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     14202    
+unix  3      [ ]         STREAM     CONNECTED     14466    
+unix  3      [ ]         STREAM     CONNECTED     16766    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     11389    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     14591    
+unix  3      [ ]         STREAM     CONNECTED     1186588  /var/run/cups/cups.sock
+unix  2      [ ]         STREAM     CONNECTED     933963   
+unix  3      [ ]         STREAM     CONNECTED     932118   
+unix  3      [ ]         STREAM     CONNECTED     15213    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     14847    
+unix  3      [ ]         SEQPACKET  CONNECTED     19855    
+unix  3      [ ]         STREAM     CONNECTED     16546    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     17091    
+unix  3      [ ]         STREAM     CONNECTED     17473    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     12821    
+unix  3      [ ]         STREAM     CONNECTED     378399   /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     16422    
+unix  3      [ ]         STREAM     CONNECTED     12073    
+unix  3      [ ]         STREAM     CONNECTED     17453    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     10490    
+unix  3      [ ]         STREAM     CONNECTED     1161226  
+unix  2      [ ]         DGRAM                    960017   
+unix  3      [ ]         STREAM     CONNECTED     31609    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     12974    @/dbus-vfs-daemon/socket-LNNuSDfQ
+unix  3      [ ]         STREAM     CONNECTED     17445    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     10534    
+unix  3      [ ]         STREAM     CONNECTED     17572    
+unix  3      [ ]         STREAM     CONNECTED     16776    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     14835    
+unix  3      [ ]         STREAM     CONNECTED     14637    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16965    
+unix  3      [ ]         STREAM     CONNECTED     18584    
+unix  3      [ ]         STREAM     CONNECTED     12665    
+unix  3      [ ]         STREAM     CONNECTED     963580   
+unix  3      [ ]         STREAM     CONNECTED     17552    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16085    
+unix  3      [ ]         STREAM     CONNECTED     14843    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     1170510  @/tmp/.ICE-unix/1933
+unix  3      [ ]         STREAM     CONNECTED     18515    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     12149    @/tmp/.ICE-unix/1933
+unix  3      [ ]         STREAM     CONNECTED     18027    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14759    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     380628   /run/user/lfwu/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     7836     /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17070    
+unix  3      [ ]         STREAM     CONNECTED     16783    
+unix  3      [ ]         STREAM     CONNECTED     15218    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     12666    
+unix  3      [ ]         STREAM     CONNECTED     10471    
+unix  3      [ ]         STREAM     CONNECTED     14305    
+unix  2      [ ]         DGRAM                    13866    
+unix  3      [ ]         STREAM     CONNECTED     784093   
+unix  3      [ ]         STREAM     CONNECTED     17037    
+unix  3      [ ]         STREAM     CONNECTED     8049     
+unix  3      [ ]         STREAM     CONNECTED     781951   
+unix  3      [ ]         STREAM     CONNECTED     18512    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     1173921  @/dbus-vfs-daemon/socket-nLwuew7s
+unix  3      [ ]         STREAM     CONNECTED     961085   
+unix  3      [ ]         STREAM     CONNECTED     17539    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     13047    
+unix  3      [ ]         STREAM     CONNECTED     12267    
+unix  3      [ ]         STREAM     CONNECTED     14160    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     962502   
+unix  3      [ ]         STREAM     CONNECTED     12873    
+unix  3      [ ]         STREAM     CONNECTED     11396    
+unix  3      [ ]         STREAM     CONNECTED     15298    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     1164976  @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     783567   @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14895    
+unix  3      [ ]         STREAM     CONNECTED     14760    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     11468    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     12161    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     13783    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     13645    
+unix  3      [ ]         STREAM     CONNECTED     15180    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     7833     /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     962352   
+unix  3      [ ]         STREAM     CONNECTED     14769    
+unix  3      [ ]         STREAM     CONNECTED     14200    
+unix  3      [ ]         STREAM     CONNECTED     1414     
+unix  3      [ ]         STREAM     CONNECTED     18578    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     932117   @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     377771   @/tmp/dbus-zg536ABOW6
+unix  2      [ ]         STREAM     CONNECTED     933973   
+unix  3      [ ]         STREAM     CONNECTED     18604    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     933940   
+unix  3      [ ]         STREAM     CONNECTED     25366    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16763    
+unix  3      [ ]         STREAM     CONNECTED     12265    
+unix  3      [ ]         STREAM     CONNECTED     375386   
+unix  3      [ ]         STREAM     CONNECTED     16325    
+unix  3      [ ]         STREAM     CONNECTED     14054    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     1175738  
+unix  3      [ ]         STREAM     CONNECTED     14677    @/tmp/.ICE-unix/1933
+unix  3      [ ]         STREAM     CONNECTED     16950    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     961212   
+unix  3      [ ]         STREAM     CONNECTED     17456    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     15284    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     15707    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14834    @/tmp/dbus-zg536ABOW6
+unix  2      [ ]         DGRAM                    12096    
+unix  3      [ ]         STREAM     CONNECTED     31606    
+unix  3      [ ]         STREAM     CONNECTED     16538    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     10470    
+unix  3      [ ]         STREAM     CONNECTED     15216    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14878    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14077    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     1174854  @/dbus-vfs-daemon/socket-i2aVxJWr
+unix  3      [ ]         STREAM     CONNECTED     782937   @/tmp/.ICE-unix/1933
+unix  3      [ ]         STREAM     CONNECTED     12283    
+unix  3      [ ]         STREAM     CONNECTED     961363   @/dbus-vfs-daemon/socket-BUH35nvH
+unix  3      [ ]         STREAM     CONNECTED     16765    
+unix  3      [ ]         STREAM     CONNECTED     17484    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     12270    
+unix  3      [ ]         STREAM     CONNECTED     14647    
+unix  3      [ ]         STREAM     CONNECTED     377774   
+unix  3      [ ]         STREAM     CONNECTED     15327    
+unix  3      [ ]         STREAM     CONNECTED     17485    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14849    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     15680    
+unix  3      [ ]         STREAM     CONNECTED     12093    
+unix  3      [ ]         STREAM     CONNECTED     15225    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     10136    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     19519    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     12928    
+unix  3      [ ]         STREAM     CONNECTED     12095    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     963679   
+unix  3      [ ]         SEQPACKET  CONNECTED     21802    
+unix  3      [ ]         STREAM     CONNECTED     16772    
+unix  3      [ ]         STREAM     CONNECTED     16964    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     15224    
+unix  3      [ ]         STREAM     CONNECTED     13021    @/dbus-vfs-daemon/socket-X6AK3Ge7
+unix  3      [ ]         STREAM     CONNECTED     12072    
+unix  3      [ ]         STREAM     CONNECTED     7857     /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     375392   
+unix  3      [ ]         STREAM     CONNECTED     378404   /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     20225    
+unix  3      [ ]         STREAM     CONNECTED     12841    
+unix  3      [ ]         STREAM     CONNECTED     8110     
+unix  3      [ ]         STREAM     CONNECTED     15219    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     1171899  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     964632   
+unix  3      [ ]         STREAM     CONNECTED     12964    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     12893    /var/run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM                    8458     
+unix  3      [ ]         STREAM     CONNECTED     963264   
+unix  3      [ ]         STREAM     CONNECTED     17476    
+unix  3      [ ]         STREAM     CONNECTED     1164981  
+unix  3      [ ]         STREAM     CONNECTED     376807   
+unix  3      [ ]         SEQPACKET  CONNECTED     19854    
+unix  3      [ ]         STREAM     CONNECTED     12765    
+unix  3      [ ]         STREAM     CONNECTED     1164144  
+unix  3      [ ]         STREAM     CONNECTED     962922   @/dbus-vfs-daemon/socket-uPAAO1YW
+unix  3      [ ]         STREAM     CONNECTED     17052    
+unix  3      [ ]         STREAM     CONNECTED     17515    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     13671    
+unix  2      [ ]         DGRAM                    11395    
+unix  3      [ ]         STREAM     CONNECTED     10476    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     219132   
+unix  3      [ ]         STREAM     CONNECTED     19483    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14570    
+unix  3      [ ]         STREAM     CONNECTED     13785    /var/run/dbus/system_bus_socket
+unix  3      [ ]         SEQPACKET  CONNECTED     14890    
+unix  3      [ ]         STREAM     CONNECTED     16395    
+unix  3      [ ]         STREAM     CONNECTED     12266    
+unix  3      [ ]         STREAM     CONNECTED     14273    
+unix  3      [ ]         STREAM     CONNECTED     16983    
+unix  3      [ ]         STREAM     CONNECTED     780753   @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     16376    
+unix  3      [ ]         STREAM     CONNECTED     16087    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     11432    
+unix  3      [ ]         STREAM     CONNECTED     963895   
+unix  3      [ ]         STREAM     CONNECTED     18585    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     17469    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17457    
+unix  3      [ ]         STREAM     CONNECTED     14588    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     12354    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17444    
+unix  2      [ ]         DGRAM                    11447    
+unix  3      [ ]         STREAM     CONNECTED     16420    
+unix  3      [ ]         STREAM     CONNECTED     994229   
+unix  3      [ ]         STREAM     CONNECTED     962924   @/dbus-vfs-daemon/socket-Y32Lw7jL
+unix  3      [ ]         STREAM     CONNECTED     1170512  @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     13278    
+unix  3      [ ]         STREAM     CONNECTED     16545    
+unix  3      [ ]         STREAM     CONNECTED     18595    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14836    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     15290    
+unix  3      [ ]         STREAM     CONNECTED     12971    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         DGRAM                    8459     
+unix  3      [ ]         STREAM     CONNECTED     12874    
+unix  3      [ ]         STREAM     CONNECTED     16544    
+unix  3      [ ]         STREAM     CONNECTED     1168913  
+unix  3      [ ]         STREAM     CONNECTED     14634    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     962162   @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     9250     @/com/ubuntu/upstart
+unix  3      [ ]         STREAM     CONNECTED     378520   
+unix  3      [ ]         STREAM     CONNECTED     15313    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14870    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14581    
+unix  3      [ ]         STREAM     CONNECTED     1164145  @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     962923   
+unix  3      [ ]         STREAM     CONNECTED     15311    
+unix  3      [ ]         STREAM     CONNECTED     16003    
+unix  3      [ ]         STREAM     CONNECTED     14762    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     17578    
+unix  3      [ ]         STREAM     CONNECTED     15763    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     18575    
+unix  3      [ ]         STREAM     CONNECTED     14235    
+unix  3      [ ]         STREAM     CONNECTED     15315    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         SEQPACKET  CONNECTED     15363    
+unix  3      [ ]         STREAM     CONNECTED     17061    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14269    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     12778    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     12713    
+unix  3      [ ]         STREAM     CONNECTED     15312    
+unix  3      [ ]         STREAM     CONNECTED     16963    
+unix  3      [ ]         STREAM     CONNECTED     12087    
+unix  3      [ ]         STREAM     CONNECTED     964631   @/dbus-vfs-daemon/socket-lGiiu30j
+unix  3      [ ]         STREAM     CONNECTED     11849    
+unix  2      [ ]         DGRAM                    10489    
+unix  2      [ ]         DGRAM                    16106    
+unix  3      [ ]         STREAM     CONNECTED     28706    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     13300    
+unix  3      [ ]         STREAM     CONNECTED     16411    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14893    
+unix  3      [ ]         STREAM     CONNECTED     14671    /run/user/lfwu/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     7504     
+unix  3      [ ]         STREAM     CONNECTED     784092   
+unix  2      [ ]         DGRAM                    10531    
+unix  3      [ ]         STREAM     CONNECTED     17545    
+unix  3      [ ]         STREAM     CONNECTED     15743    
+unix  3      [ ]         STREAM     CONNECTED     994230   @/dbus-vfs-daemon/socket-iw9XKBs0
+unix  3      [ ]         STREAM     CONNECTED     27878    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     12770    @/tmp/dbus-OVqPImUKhF
+unix  3      [ ]         STREAM     CONNECTED     964642   @/dbus-vfs-daemon/socket-CzfgB4xy
+unix  3      [ ]         STREAM     CONNECTED     12927    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     219131   
+unix  3      [ ]         STREAM     CONNECTED     14592    
+unix  3      [ ]         STREAM     CONNECTED     12347    
+unix  3      [ ]         STREAM     CONNECTED     1166830  @/tmp/.ICE-unix/1933
+unix  3      [ ]         STREAM     CONNECTED     1189041  
+unix  3      [ ]         STREAM     CONNECTED     18475    
+unix  3      [ ]         STREAM     CONNECTED     16508    
+unix  3      [ ]         STREAM     CONNECTED     14786    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     14674    
+unix  3      [ ]         STREAM     CONNECTED     1176371  
+unix  3      [ ]         STREAM     CONNECTED     1168912  
+unix  3      [ ]         STREAM     CONNECTED     15184    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     14892    
+unix  3      [ ]         STREAM     CONNECTED     14267    @/tmp/dbus-zg536ABOW6
+unix  3      [ ]         STREAM     CONNECTED     18589    
+unix  3      [ ]         STREAM     CONNECTED     17481    @/tmp/.X11-unix/X0
