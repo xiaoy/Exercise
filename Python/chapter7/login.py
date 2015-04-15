@@ -1,16 +1,18 @@
 # this program is used for manage user login info
+import crypt, string
 
 
 class User:
     def __init__(self, name, pwd):
         self._name = name
-        self._pwd = pwd
+        self._pwd = crypt.crypt(pwd, "666")
 
-    def login(self, name, pwd):
-        if name != self.name or pwd != self._pwd:
-            print("login failed")
+    def can_login(self, name, pwd):
+        pwd = crypt.crypt(pwd, "666")
+        if name != self._name or pwd != self._pwd:
+            return False
         else:
-            print("login success")
+            return True
 
     def info(self):
         print(self.tostring())
@@ -39,7 +41,7 @@ def save_info():
 def load_info():
     global user_list
     user_list = []
-    f = open("userinfo.txt")
+    f = open("userinfo.txt", 'r')
     alllines = f.readlines()
     for line in alllines:
         infos = line.strip().split(',')
@@ -58,13 +60,21 @@ def login_in():
 
     islogin = False
     for u in user_list:
-        if u.get_name() == name and u.get_pwd() == pwd:
+        if u.can_login(name, pwd):
             print("login success")
             islogin = True
             break
 
-    if not islogin:
-        print("login fail")
+    if islogin:
+        return
+
+    if is_user_exsit(name):
+        print("your password is wrong.")
+    else:
+        print("the user name is not exist")
+        cmd = raw_input("do you want create new account:(y/n)")
+        if cmd == 'y' or cmd == 'Y':
+            add_user()
 
 
 def is_user_exsit(name):
@@ -74,10 +84,22 @@ def is_user_exsit(name):
     return False
 
 
+def check_name(name):
+    all_letters = string.letters + string.digits
+    for ch in name:
+        if all_letters.count(ch) == 0:
+            return False
+    return True
+
+
 def add_user():
     global user_list
     name = raw_input("input your name:")
     pwd = raw_input("input your password:")
+    if not check_name(name):
+        print("your name include special char")
+        return
+
     if is_user_exsit(name):
         print("the user:{0} has exist".format(name))
         return
