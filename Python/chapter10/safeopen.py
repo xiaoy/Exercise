@@ -17,5 +17,6 @@ input_file = raw_input("input file name:")
 f = safeopen(input_file)
 if f is not None:
     printf(f)
+    f.close()
 else:
     print("file:%s is not exist" % (input_file))
