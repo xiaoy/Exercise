@@ -14,7 +14,7 @@ def timeit(func, x):
 def is_primer(x):
     if x % 2 == 0:
         return False
-    x = x / 2
+
     for i in xrange(3, x):
         if x % i == 0:
             return False
