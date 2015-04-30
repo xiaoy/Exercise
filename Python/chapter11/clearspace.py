@@ -13,17 +13,18 @@ def clear_head_space(line):
 def clear_tail_space(line):
     index = 0
     for i, ch in enumerate(line[::-1]):
-        if i == 0:
+        if ch == "\n":
             continue
         if ch != " ":
             index = i
             break
-    return line[:len(line) - index + 1]
+    return line[:len(line) - index]
 
 
 def clear_head_and_tail_space(line):
     line = clear_head_space(line)
     line = clear_tail_space(line)
+    line += "\n"
     return line
 
 
