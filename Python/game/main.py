@@ -29,4 +29,9 @@ while True:
 
     screen.fill(black)
     screen.blit(ball, ball_rect)
+
+    image = pygame.Surface([64, 64])
+    image.blit(ball, (0, 0), (0, 0, 64, 64))
+    screen.blit(image, (100, 100, 64, 64))
+
     pygame.display.flip()
